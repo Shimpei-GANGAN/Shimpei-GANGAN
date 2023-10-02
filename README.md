@@ -72,4 +72,4 @@ Look at [my page](https://gangannikki.hatenadiary.jp/). Written on **hatenablog*
 
 ### WIP: Activities ✨
 
-something
+we'll do our best.
