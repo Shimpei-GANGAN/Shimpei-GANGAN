@@ -7,7 +7,7 @@
    - Engaged in AI web services. Responsible for development and operation, mainly frontend
    - developer experience : Vue.js@2.x, Java + Spring Boot, k8s, AWS, and more.
 
-- ex- `xxxxx` University
+- ex- Kagoshima University
 
 
-- ex- `xxxxx` National Institute of Technology
+- ex- National Institute of Technology, Kitakyushu College
