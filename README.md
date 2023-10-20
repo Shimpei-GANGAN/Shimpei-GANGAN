@@ -41,8 +41,11 @@ Look at my [work experience](./about/work_experience.md).
   <a href="https://www.wantedly.com/id/gangan_shimpei_iwam" target="_black">
     <img alt="Wantedly Badge" src="https://img.shields.io/badge/Wantedly-21bddb.svg?&style=flat-square&logo=wantedly&logoColor=white" />
   </a>
+  <a href="https://lapras.com/public/gangan" target="_black">
+    <img alt="LAPRAS Badge" src="https://img.shields.io/badge/LAPRAS-0a5ed9.svg?&style=flat-square&logo=lapras&logoColor=white" />
+  </a>
   <br />
-    WIP: Slideshare, LAPRAS
+    WIP: Slideshare
 </p>
 
 ### ✍ Authored article 
