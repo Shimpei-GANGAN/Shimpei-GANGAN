@@ -65,3 +65,20 @@ Look at [/about/articles](./about/articles.md).
 ### WIP: Activities ✨
 
 we'll do our best.
+
+## Stats
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16rem">
+  <img
+    alt="Top Langs"
+    style="display: grid; grid-template-rows: subgrid; grid-row: span 4; height: 12rem"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimpei-GANGAN&layout=compact&count_private=true&show_icons=true&theme=vue-dark&hide=jupyter%20notebook&langs_count=6"
+  />
+  <img
+    alt="github stats"
+    style="display: grid; grid-template-rows: subgrid; grid-row: span 4;"
+    src="https://github-readme-stats.vercel.app/api?username=Shimpei-GANGAN&count_private=true&show_icons=true&show_icons=true&theme=vue-dark"
+  />  
+</div>
+
+
