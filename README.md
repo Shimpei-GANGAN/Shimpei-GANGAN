@@ -72,12 +72,12 @@ we'll do our best.
   <img
     alt="Top Langs"
     style="display: grid; grid-template-rows: subgrid; grid-row: span 4; height: 12rem"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimpei-GANGAN&layout=compact&count_private=true&show_icons=true&theme=vue-dark&hide=jupyter%20notebook&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinGangan&layout=compact&count_private=true&show_icons=true&theme=vue-dark&hide=jupyter%20notebook&langs_count=6"
   />
   <img
     alt="github stats"
     style="display: grid; grid-template-rows: subgrid; grid-row: span 4;"
-    src="https://github-readme-stats.vercel.app/api?username=Shimpei-GANGAN&count_private=true&show_icons=true&show_icons=true&theme=vue-dark"
+    src="https://github-readme-stats.vercel.app/api?username=shinGangan&count_private=true&show_icons=true&show_icons=true&theme=vue-dark"
   />  
 </div>
 
