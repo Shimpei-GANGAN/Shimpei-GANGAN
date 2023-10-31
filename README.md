@@ -26,7 +26,7 @@ Look at my [work experience](./about/work_experience.md).
 ### 🔍 Where to find me
 
 <p>
-  <a href="https://github.com/Shimpei-GANGAN" target="_blank">
+  <a href="https://github.com/shinGangan" target="_blank">
     <img alt="Github Badge" src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://twitter.com/gangan_nikki" target="_blank">
