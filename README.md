@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 Web developer, mainly frontend developer.
 
+- mainly ▶️ Nuxt / Panda CSS / unjs / Cloud Architect(AWS/Azure)
+
+
 Look at my [work experience](./about/work_experience.md).
+
 
 ### 🔍 Where to find me
 
@@ -65,6 +69,12 @@ Look at [/about/articles](./about/articles.md).
 ### WIP: Activities ✨
 
 we'll do our best.
+
+#### WIP: Open source projects
+
+| 🚀 Projects | 📗 Context |
+| :-: | :-: |
+
 
 ## Stats
 
