@@ -49,32 +49,24 @@ Look at my [work experience](./about/work_experience.md).
     <img alt="LAPRAS Badge" src="https://img.shields.io/badge/LAPRAS-0a5ed9.svg?&style=flat-square&logo=lapras&logoColor=white" />
   </a>
   <br />
-    WIP: Slideshare
+    WIP: Slideshare, Speaker Deck
 </p>
 
 ### ✍ Authored article 
 
-#### Zenn
+| 📝 Platform | 📗 Context | 👀 Note |
+| :- | :- | :-: |
+| [Zenn](https://zenn.dev/gangannikki) | Nuxt3, Vue@v3, Pinia, unjs, Panda CSS, etc. | Please give me thumbs up 💚 |
+| [Personal Technology Blog (Old)](https://gangannikki.hatenadiary.jp/) | Written on **hatenablog** . | `231 articles (as of Decemper 31, 2022)` | 
+| [OPTiM Tech Blog](https://tech-blog.optim.co.jp/search?q=%E5%B2%A9%E4%B8%B8) | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Jetpack Compose(Android), etc. | ※ previous job ※ |
 
-Look at [my page](https://zenn.dev/gangannikki). Please give me thumbs up ❤️ .
+Look at more this([/about/articles](./about/articles.md)).
 
-#### Blog
+### 🌱 Open source projects
 
-Look at [my page](https://gangannikki.hatenadiary.jp/). Written on **hatenablog** .  `231 articles (as of Decemper 31, 2022)`
-
-#### OPTiM Tech Blog, Qiita Advent Calendar
-
-Look at [/about/articles](./about/articles.md).
-
-### WIP: Activities ✨
-
-we'll do our best.
-
-#### WIP: Open source projects
-
-| 🚀 Projects | 📗 Context |
-| :-: | :-: |
-
+| 🚀 Projects | 📗 Context | 📝 Note |
+| :- | :- | :- |
+| Draft | Draft | we'll do our best. | 
 
 ## Stats
 
