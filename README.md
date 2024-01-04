@@ -21,55 +21,34 @@ Here are some ideas to get you started:
 
 🌸 Web Engineer, mainly frontend developer.
 
-🌤️ Frequently using technology stacks
-
-  - [![nuxt-logo]][nuxt-href] /  🟨 unjs / 🐼 Panda CSS / 🐻‍❄️ Kuma UI / [![hono-logo]][hono-href] / [![cf-logo]][cf-href] / Kotlin / Cloud Architect ( AWS / [![az-logo]][az-href] )
-
-🔭 Work: Look at my [work experience](./about/work_experience.md).
- 
-🌱 [Open source projects☟](#-open-source-projects)
-
 ### 🔍 Where to find me
 
-<p>
-  <a href="https://github.com/shinGangan" target="_blank">
-    <img alt="Github Badge" src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/gangan_nikki" target="_blank">
-    <img alt="Twitter Badge" src="https://img.shields.io/badge/X(Twitter)-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://qiita.com/GANGAN" target="_blank">
-    <img alt="Qiita Badge" src="https://img.shields.io/badge/Qiita-55c500.svg?&style=flat-square&logo=qiita&logoColor=white" />
-  </a>
-  <a href="https://zenn.dev/gangannikki" target="_blank">
-    <img alt="Zenn Badge" src="https://img.shields.io/badge/Zenn-3ea8ff.svg?&style=flat-square&logo=Zenn&logoColor=white" />
-  </a>
-  <a href="https://www.wantedly.com/id/gangan_shimpei_iwam" target="_black">
-    <img alt="Wantedly Badge" src="https://img.shields.io/badge/Wantedly-21bddb.svg?&style=flat-square&logo=wantedly&logoColor=white" />
-  </a>
-  <a href="https://lapras.com/public/gangan" target="_black">
-    <img alt="LAPRAS Badge" src="https://img.shields.io/badge/LAPRAS-0a5ed9.svg?&style=flat-square&logo=lapras&logoColor=white" />
-  </a>
-  <br />
-    WIP: Slideshare, Speaker Deck
-</p>
+[![twitter-logo]][twitter-href] / [![zenn-logo]][zenn-href] / [![wt-logo]][wt-href] / [![lp-logo]][lp-href] / [![sd-logo]][sd-href]
+
+### 🌤️ Frequently using technology stacks
+
+[![nuxt-logo]][nuxt-href] / [![unjs-logo]][unjs-href] / [![panda-logo]][panda-href] / [![kuma-logo]][kuma-href] / ![hono-logo] / ![cf-logo] / ![aws-logo] / ![az-logo] / ![kt-logo] / and more.
+
+### 🔭 Work
+
+Look at my [work experience](./about/work_experience.md).
+ 
+### 🌱 Open source projects
+
+| 🚀 Projects | 🌱 Context | 📗 Note |
+| :- | :- | :- |
+| Draft | 🦒Draft | we'll do our best. | 
 
 ### ✍ Authored article 
 
 | 📝 Platform | 💡 Topics | 📗 Note |
 | :----: | :- | :- |
-| [![Zenn][zenn-logo]][zenn-href] | Nuxt, Vue@v3, Pinia, unjs, Panda CSS, etc. | Please give me thumbs up 💚 |
-| [Personal Tech Blog (old)](https://gangannikki.hatenadiary.jp/) | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | Written on **hatenablog**. `231 articles (as of Decemper 31, 2022)` | 
-| [OPTiM Tech Blog](https://tech-blog.optim.co.jp/search?q=%E5%B2%A9%E4%B8%B8) | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Jetpack Compose(Android), etc. | ※ previous job ※ |
-| [sizu.me](https://sizu.me/gangan_nikki) | - | ひとりごと | 
+| [![zenn-logo]][zenn-href] | Nuxt, Vue@v3, Pinia, unjs, Panda CSS, etc. | Please give me thumbs up 💚 |
+| [![hatena-logo]][hatena-href] | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | Written on **hatenablog**. `231 articles (as of Decemper 31, 2022)` | 
+| [![optim-logo]][optim-href] | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Jetpack Compose(Android), etc. | ※ previous job ※ |
+| [![sizu-logo]][sizu-href] | - | ひとりごと | 
 
 Look at more this([/about/articles](./about/articles.md)).
-
-### 🌱 Open source projects
-
-| 🚀 Projects | 📗 Context | 📝 Note |
-| :- | :- | :- |
-| Draft | Draft | we'll do our best. | 
 
 ## Stats
 
@@ -87,16 +66,44 @@ Look at more this([/about/articles](./about/articles.md)).
 </div>
 
 <!--
-  Badge
+  Badge for Tech
 -->
-
 [nuxt-logo]: https://img.shields.io/badge/Nuxt-00DC82.svg?style=plastic&logo=nuxt.js&color=6A6A6A
 [nuxt-href]: https://nuxt.com
+[unjs-logo]: https://img.shields.io/badge/UnJS-ECDC5A.svg?style=plastic&logo=unjs
+[unjs-href]: https://unjs.io/packages
+[panda-logo]: https://img.shields.io/badge/Panda_CSS_🐼_-FDE047.svg?style=plastic&logo=pandacss
+[panda-href]: https://panda-css.com/
+[kuma-logo]: https://img.shields.io/badge/Kuma_UI_🐻‍❄️_-FFFFFF.svg?style=plastic&logo=kumaui
+[kuma-href]: https://www.kuma-ui.com/
 [hono-logo]: https://img.shields.io/badge/Hono-E36002.svg?style=plastic&logo=hono&color=6A6A6A
 [hono-href]: https://hono.dev/
 [cf-logo]: https://img.shields.io/badge/Cloudflare-F38020.svg?style=plastic&logo=cloudflare&color=6A6A6A
 [cf-href]: https://www.cloudflare.com/ja-jp/
 [az-logo]: https://img.shields.io/badge/Azure-0078D4.svg?style=plastic&logo=microsoftazure
-[az-href]: https://azure.microsoft.com/ja-jp
-[zenn-logo]: https://img.shields.io/badge/Zenn-3ea8ff.svg?&style=flat-square&logo=Zenn&logoColor=white
+[aws-logo]: https://img.shields.io/badge/AWS-FF9900.svg?style=plastic&logo=amazonaws
+[kt-logo]: https://img.shields.io/badge/Kotlin-7F52FF.svg?style=plastic&logo=kotlin&color=6A6A6A
+
+<!--
+  Badge for SNS
+-->
+[twitter-logo]: https://img.shields.io/badge/X(Twitter)-%231da1f2.svg?&style=flat&logo=twitter&logoColor=white
+[twitter-href]: https://github.com/shinGangan
+[qiita-logo]: https://img.shields.io/badge/Qiita-55c500.svg?&style=flat&logo=qiita&logoColor=white
+[qiita-href]: https://qiita.com/GANGAN
+[zenn-logo]: https://img.shields.io/badge/Zenn-3ea8ff.svg?&style=flat&logo=Zenn&logoColor=white
 [zenn-href]: https://zenn.dev/gangannikki
+[wt-logo]: https://img.shields.io/badge/Wantedly-21bddb.svg?&style=flat&logo=wantedly&logoColor=white
+[wt-href]: https://www.wantedly.com/id/gangan_shimpei_iwam
+[lp-logo]: https://img.shields.io/badge/LAPRAS-0a5ed9.svg?&style=flat&logo=lapras&logoColor=white
+[lp-href]: https://lapras.com/public/gangan
+[sd-logo]: https://img.shields.io/badge/slideshare-008ED2.svg?&style=flat&logo=slideshare&logoColor=white
+[sd-href]: https://www.slideshare.net/ShimpeiIwamaru/presentations
+[sp-logo]: https://img.shields.io/badge/Speaker_Deck-009287.svg?&style=flat&logo=speakerdeck&logoColor=white
+[sp-href]: https://www.slideshare.net/ShimpeiIwamaru/presentations
+[sizu-logo]: https://img.shields.io/badge/Sizu-FFFFFF.svg?&style=flat&logo=sizu
+[sizu-href]: https://sizu.me/gangan_nikki
+[hatena-logo]: https://img.shields.io/badge/Personal_Tech_Blog-f19db5.svg?&style=flat
+[hatena-href]: https://gangannikki.hatenadiary.jp/
+[optim-logo]: https://img.shields.io/badge/OPTiM_Tech_Blog-0020F4.svg?&style=flat
+[optim-href]: https://tech-blog.optim.co.jp/search?q=%E5%B2%A9%E4%B8%B8
