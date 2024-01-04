@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## `$ whoami`
 
-Web developer, mainly frontend developer.
+🌸 Web Engineer, mainly frontend developer.
 
 - mainly ▶️ Nuxt / Panda CSS / unjs / Cloud Architect(AWS/Azure)
 
