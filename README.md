@@ -66,6 +66,34 @@ Look at more this([/about/articles](./about/articles.md)).
 </div>
 
 <!--
+  Badge for SNS Platform
+-->
+[twitter-logo]: https://img.shields.io/badge/X(Twitter)-%231da1f2.svg?&style=flat&logo=twitter&logoColor=white
+[twitter-href]: https://twitter.com/gangan_nikki
+[wt-logo]: https://img.shields.io/badge/Wantedly-21bddb.svg?&style=flat&logo=wantedly&logoColor=white
+[wt-href]: https://www.wantedly.com/id/gangan_shimpei_iwam
+[lp-logo]: https://img.shields.io/badge/LAPRAS-0a5ed9.svg?&style=flat&logo=lapras&logoColor=white
+[lp-href]: https://lapras.com/public/gangan
+[sizu-logo]: https://img.shields.io/badge/Sizu-FFFFFF.svg?&style=flat&logo=sizu
+[sizu-href]: https://sizu.me/gangan_nikki
+
+<!--
+  Badge for Writing / Speaker Platform
+-->
+[zenn-logo]: https://img.shields.io/badge/Zenn-3ea8ff.svg?&style=flat&logo=Zenn&logoColor=white
+[zenn-href]: https://zenn.dev/gangannikki
+[qiita-logo]: https://img.shields.io/badge/Qiita-55c500.svg?&style=flat&logo=qiita&logoColor=white
+[qiita-href]: https://qiita.com/GANGAN
+[hatena-logo]: https://img.shields.io/badge/Personal_Tech_Blog-f19db5.svg?&style=flat
+[hatena-href]: https://gangannikki.hatenadiary.jp/
+[optim-logo]: https://img.shields.io/badge/OPTiM_Tech_Blog-0020F4.svg?&style=flat
+[optim-href]: https://tech-blog.optim.co.jp/search?q=%E5%B2%A9%E4%B8%B8
+[sd-logo]: https://img.shields.io/badge/slideshare-008ED2.svg?&style=flat&logo=slideshare&logoColor=white
+[sd-href]: https://www.slideshare.net/ShimpeiIwamaru/presentations
+[sp-logo]: https://img.shields.io/badge/Speaker_Deck-009287.svg?&style=flat&logo=speakerdeck&logoColor=white
+[sp-href]: https://www.slideshare.net/ShimpeiIwamaru/presentations
+
+<!--
   Badge for Tech
 -->
 [nuxt-logo]: https://img.shields.io/badge/Nuxt-00DC82.svg?style=plastic&logo=nuxt.js&color=6A6A6A
@@ -83,27 +111,3 @@ Look at more this([/about/articles](./about/articles.md)).
 [az-logo]: https://img.shields.io/badge/Azure-0078D4.svg?style=plastic&logo=microsoftazure
 [aws-logo]: https://img.shields.io/badge/AWS-FF9900.svg?style=plastic&logo=amazonaws
 [kt-logo]: https://img.shields.io/badge/Kotlin-7F52FF.svg?style=plastic&logo=kotlin&color=6A6A6A
-
-<!--
-  Badge for SNS
--->
-[twitter-logo]: https://img.shields.io/badge/X(Twitter)-%231da1f2.svg?&style=flat&logo=twitter&logoColor=white
-[twitter-href]: https://github.com/shinGangan
-[qiita-logo]: https://img.shields.io/badge/Qiita-55c500.svg?&style=flat&logo=qiita&logoColor=white
-[qiita-href]: https://qiita.com/GANGAN
-[zenn-logo]: https://img.shields.io/badge/Zenn-3ea8ff.svg?&style=flat&logo=Zenn&logoColor=white
-[zenn-href]: https://zenn.dev/gangannikki
-[wt-logo]: https://img.shields.io/badge/Wantedly-21bddb.svg?&style=flat&logo=wantedly&logoColor=white
-[wt-href]: https://www.wantedly.com/id/gangan_shimpei_iwam
-[lp-logo]: https://img.shields.io/badge/LAPRAS-0a5ed9.svg?&style=flat&logo=lapras&logoColor=white
-[lp-href]: https://lapras.com/public/gangan
-[sd-logo]: https://img.shields.io/badge/slideshare-008ED2.svg?&style=flat&logo=slideshare&logoColor=white
-[sd-href]: https://www.slideshare.net/ShimpeiIwamaru/presentations
-[sp-logo]: https://img.shields.io/badge/Speaker_Deck-009287.svg?&style=flat&logo=speakerdeck&logoColor=white
-[sp-href]: https://www.slideshare.net/ShimpeiIwamaru/presentations
-[sizu-logo]: https://img.shields.io/badge/Sizu-FFFFFF.svg?&style=flat&logo=sizu
-[sizu-href]: https://sizu.me/gangan_nikki
-[hatena-logo]: https://img.shields.io/badge/Personal_Tech_Blog-f19db5.svg?&style=flat
-[hatena-href]: https://gangannikki.hatenadiary.jp/
-[optim-logo]: https://img.shields.io/badge/OPTiM_Tech_Blog-0020F4.svg?&style=flat
-[optim-href]: https://tech-blog.optim.co.jp/search?q=%E5%B2%A9%E4%B8%B8
