@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 
 🌸 Web Engineer, mainly frontend developer.
 
-- mainly ▶️ Nuxt / Panda CSS / unjs / Cloud Architect(AWS/Azure)
+🌤️ Frequently using technology stacks
 
+  - [![nuxt-logo]][nuxt-href] /  🟨 unjs / 🐼 Panda CSS / 🐻‍❄️ Kuma UI / [![hono-logo]][hono-href] / [![cf-logo]][cf-href] / Kotlin / Cloud Architect ( AWS / [![az-logo]][az-href] )
 
-Look at my [work experience](./about/work_experience.md).
-
+🔭 Work: Look at my [work experience](./about/work_experience.md).
+ 
+🌱 [Open source projects☟](#-open-source-projects)
 
 ### 🔍 Where to find me
 
@@ -54,11 +56,12 @@ Look at my [work experience](./about/work_experience.md).
 
 ### ✍ Authored article 
 
-| 📝 Platform | 📗 Context | 👀 Note |
-| :- | :- | :-: |
-| [Zenn](https://zenn.dev/gangannikki) | Nuxt3, Vue@v3, Pinia, unjs, Panda CSS, etc. | Please give me thumbs up 💚 |
-| [Personal Technology Blog (Old)](https://gangannikki.hatenadiary.jp/) | Written on **hatenablog** . | `231 articles (as of Decemper 31, 2022)` | 
+| 📝 Platform | 💡 Topics | 📗 Note |
+| :----: | :- | :- |
+| [![Zenn][zenn-logo]][zenn-href] | Nuxt, Vue@v3, Pinia, unjs, Panda CSS, etc. | Please give me thumbs up 💚 |
+| [Personal Tech Blog (old)](https://gangannikki.hatenadiary.jp/) | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | Written on **hatenablog**. `231 articles (as of Decemper 31, 2022)` | 
 | [OPTiM Tech Blog](https://tech-blog.optim.co.jp/search?q=%E5%B2%A9%E4%B8%B8) | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Jetpack Compose(Android), etc. | ※ previous job ※ |
+| [sizu.me](https://sizu.me/gangan_nikki) | - | ひとりごと | 
 
 Look at more this([/about/articles](./about/articles.md)).
 
@@ -83,4 +86,17 @@ Look at more this([/about/articles](./about/articles.md)).
   />  
 </div>
 
+<!--
+  Badge
+-->
 
+[nuxt-logo]: https://img.shields.io/badge/Nuxt-00DC82.svg?style=plastic&logo=nuxt.js&color=6A6A6A
+[nuxt-href]: https://nuxt.com
+[hono-logo]: https://img.shields.io/badge/Hono-E36002.svg?style=plastic&logo=hono&color=6A6A6A
+[hono-href]: https://hono.dev/
+[cf-logo]: https://img.shields.io/badge/Cloudflare-F38020.svg?style=plastic&logo=cloudflare&color=6A6A6A
+[cf-href]: https://www.cloudflare.com/ja-jp/
+[az-logo]: https://img.shields.io/badge/Azure-0078D4.svg?style=plastic&logo=microsoftazure
+[az-href]: https://azure.microsoft.com/ja-jp
+[zenn-logo]: https://img.shields.io/badge/Zenn-3ea8ff.svg?&style=flat-square&logo=Zenn&logoColor=white
+[zenn-href]: https://zenn.dev/gangannikki
