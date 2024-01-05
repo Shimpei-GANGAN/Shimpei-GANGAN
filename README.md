@@ -43,7 +43,7 @@ Look at my [work experience](./about/work_experience.md).
 
 | 📝 Platform | 💡 Topics | 📗 Note |
 | :----: | :- | :- |
-| [![zenn-logo]][zenn-href] | Nuxt, Vue@v3, Pinia, unjs, Panda CSS, etc. | Please give me thumbs up 💚 |
+| [![zenn-articles-logo]][zenn-href] [![zenn-books-logo]][zenn-href] | Nuxt, Vue@v3, Pinia, unjs, Panda CSS, etc. | Please give me thumbs up 💚 -> [![zenn-likes-logo]][zenn-href] |
 | [![hatena-logo]][hatena-href] | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | Written on **hatenablog**. `231 articles (as of Decemper 31, 2022)` | 
 | [![optim-logo]][optim-href] | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Jetpack Compose(Android), etc. | ※ previous job ※ |
 | [![sizu-logo]][sizu-href] | - | ひとりごと | 
@@ -70,10 +70,13 @@ Look at more this([/about/articles](./about/articles.md)).
 -->
 [twitter-logo]: https://img.shields.io/badge/X(Twitter)-%231da1f2.svg?&style=flat&logo=twitter&logoColor=white
 [twitter-href]: https://twitter.com/gangan_nikki
+
 [wt-logo]: https://img.shields.io/badge/Wantedly-21bddb.svg?&style=flat&logo=wantedly&logoColor=white
 [wt-href]: https://www.wantedly.com/id/gangan_shimpei_iwam
+
 [lp-logo]: https://img.shields.io/badge/LAPRAS-0a5ed9.svg?&style=flat&logo=lapras&logoColor=white
 [lp-href]: https://lapras.com/public/gangan
+
 [sizu-logo]: https://img.shields.io/badge/Sizu-FFFFFF.svg?&style=flat&logo=sizu
 [sizu-href]: https://sizu.me/gangan_nikki
 
@@ -81,15 +84,23 @@ Look at more this([/about/articles](./about/articles.md)).
   Badge for Writing / Speaker Platform
 -->
 [zenn-logo]: https://img.shields.io/badge/Zenn-3ea8ff.svg?&style=flat&logo=Zenn&logoColor=white
+[zenn-articles-logo]: https://badgen.org/img/zenn/gangannikki/articles?style=plastic
+[zenn-books-logo]: https://badgen.org/img/zenn/gangannikki/books?style=plastic
+[zenn-likes-logo]: https://badgen.org/img/zenn/gangannikki/likes?style=plastic
 [zenn-href]: https://zenn.dev/gangannikki
+
 [qiita-logo]: https://img.shields.io/badge/Qiita-55c500.svg?&style=flat&logo=qiita&logoColor=white
 [qiita-href]: https://qiita.com/GANGAN
+
 [hatena-logo]: https://img.shields.io/badge/Personal_Tech_Blog-f19db5.svg?&style=flat
 [hatena-href]: https://gangannikki.hatenadiary.jp/
+
 [optim-logo]: https://img.shields.io/badge/OPTiM_Tech_Blog-0020F4.svg?&style=flat
 [optim-href]: https://tech-blog.optim.co.jp/search?q=%E5%B2%A9%E4%B8%B8
+
 [sd-logo]: https://img.shields.io/badge/slideshare-008ED2.svg?&style=flat&logo=slideshare&logoColor=white
 [sd-href]: https://www.slideshare.net/ShimpeiIwamaru/presentations
+
 [sp-logo]: https://img.shields.io/badge/Speaker_Deck-009287.svg?&style=flat&logo=speakerdeck&logoColor=white
 [sp-href]: https://www.slideshare.net/ShimpeiIwamaru/presentations
 
