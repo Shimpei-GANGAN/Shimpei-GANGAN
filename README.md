@@ -44,7 +44,7 @@ Look at my [work experience](./about/work_experience.md).
 | 📝 Platform | 💡 Topics | 📗 Note |
 | :----: | :- | :- |
 | [![zenn-articles-logo]][zenn-href] [![zenn-books-logo]][zenn-href] | Nuxt, Vue@v3, Pinia, unjs, Panda CSS, etc. | Please give me thumbs up 💚 -> [![zenn-likes-logo]][zenn-href] |
-| [![hatena-logo]][hatena-href] | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | Written on **hatenablog**. `231 articles (as of Decemper 31, 2022)` | 
+| [![hatena-logo]][hatena-href] | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | Written on **hatenablog**. | 
 | [![optim-logo]][optim-href] | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Jetpack Compose(Android), etc. | ※ previous job ※ |
 | [![sizu-logo]][sizu-href] | - | ひとりごと | 
 
