@@ -41,14 +41,15 @@ Look at my [work experience](./about/work_experience.md).
 
 ### ✍ Authored article 
 
-| 📝 Platform | 💡 Topics | 📗 Note |
-| :----: | :- | :- |
-| [![zenn-articles-logo]][zenn-href] [![zenn-books-logo]][zenn-books-href] | Nuxt, Vue@v3, Pinia, unjs, Panda CSS, etc. | Please give me thumbs up 💚 → [![zenn-likes-logo]][zenn-href] |
-| [![hatena-logo]][hatena-href] | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | Written on **hatenablog**. | 
-| [![sizu-logo]][sizu-href] | - | ひとりごと | 
-| [![optim-logo]][optim-href] | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Spring Boot, Rails, Jetpack Compose(Android), etc. | ※ previous job ※ |
-| | | |
-| [![zenn-p-logo]][zenn-p-href] | Nuxt, Cloudflare, etc. | Zenn Publication in the future. |
+| 📝 Platform | 💡 Topics | 🌎 Lang (default: `In Japanese`) | 📗 Note |
+| :----: | :- | :-: | :- |
+| [![zenn-articles-logo]][zenn-href] [![zenn-books-logo]][zenn-books-href] | Nuxt, Vue@v3, Pinia, unjs, Panda CSS, etc. | | Please give me thumbs up 💚 → [![zenn-likes-logo]][zenn-href] |
+| Medium or dev.to or other better platform | - | In English | Writing will begin during 2024. |
+| [![hatena-logo]][hatena-href] | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | | Written on **hatenablog**. | 
+| [![sizu-logo]][sizu-href] | - | | ひとりごと | 
+| [![optim-logo]][optim-href] | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Spring Boot, Rails, Jetpack Compose(Android), etc. | | ※ previous job ※ |
+| | | | |
+| [![zenn-p-logo]][zenn-p-href] | - | | Zenn Publication in the future. |
 
 Look at more this([/about/articles](./about/articles.md)).
 
