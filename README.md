@@ -35,9 +35,9 @@ Look at my [work experience](./about/work_experience.md).
  
 ### 🌱 Open source projects
 
-| 🚀 Projects | 🌱 Context | 📗 Note |
+| 🚀 Projects | 🌱 Abstract | 📗 Note |
 | :- | :- | :- |
-| Draft | 🦒Draft | we'll do our best. | 
+| 🦒 Draft | Draft | we'll do our best. | 
 
 ### ✍ Authored article 
 
@@ -45,8 +45,10 @@ Look at my [work experience](./about/work_experience.md).
 | :----: | :- | :- |
 | [![zenn-articles-logo]][zenn-href] [![zenn-books-logo]][zenn-href] | Nuxt, Vue@v3, Pinia, unjs, Panda CSS, etc. | Please give me thumbs up 💚 -> [![zenn-likes-logo]][zenn-href] |
 | [![hatena-logo]][hatena-href] | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | Written on **hatenablog**. | 
-| [![optim-logo]][optim-href] | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Jetpack Compose(Android), etc. | ※ previous job ※ |
 | [![sizu-logo]][sizu-href] | - | ひとりごと | 
+| [![optim-logo]][optim-href] | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Spring Boot, Rails, Jetpack Compose(Android), etc. | ※ previous job ※ |
+| | | |
+| [![zenn-p-logo]][zenn-p-href] | - | Zenn Publication in the future. |
 
 Look at more this([/about/articles](./about/articles.md)).
 
@@ -88,6 +90,8 @@ Look at more this([/about/articles](./about/articles.md)).
 [zenn-books-logo]: https://badgen.org/img/zenn/gangannikki/books?style=plastic
 [zenn-likes-logo]: https://badgen.org/img/zenn/gangannikki/likes?style=plastic
 [zenn-href]: https://zenn.dev/gangannikki
+[zenn-p-logo]: https://img.shields.io/badge/Publication-0-3ea8ff.svg?&style=flat&logo=Zenn
+[zenn-p-href]: https://zenn.dev/gangannikki
 
 [qiita-logo]: https://img.shields.io/badge/Qiita-55c500.svg?&style=flat&logo=qiita&logoColor=white
 [qiita-href]: https://qiita.com/GANGAN
