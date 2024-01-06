@@ -87,12 +87,13 @@ Look at more this([/about/articles](./about/articles.md)).
 -->
 [zenn-logo]: https://img.shields.io/badge/Zenn-3ea8ff.svg?&style=flat&logo=Zenn&logoColor=white
 [zenn-articles-logo]: https://badgen.org/img/zenn/gangannikki/articles?style=plastic
-[zenn-href]: https://zenn.dev/gangannikki
-[zenn-books-logo]: https://badgen.org/img/zenn/gangannikki/books?style=plastic
-[zenn-books-href]: https://zenn.dev/gangannikki?tab=books
 [zenn-likes-logo]: https://badgen.org/img/zenn/gangannikki/likes?style=plastic
 [zenn-href]: https://zenn.dev/gangannikki
-[zenn-p-logo]: https://img.shields.io/badge/Publication-0-3ea8ff.svg?&style=flat&logo=Zenn
+
+[zenn-books-logo]: https://badgen.org/img/zenn/gangannikki/books?style=plastic
+[zenn-books-href]: https://zenn.dev/gangannikki?tab=books
+
+[zenn-p-logo]: https://img.shields.io/badge/xyz_Publication-0-3ea8ff.svg?&style=flat&logo=Zenn
 [zenn-p-href]: https://zenn.dev/gangannikki
 
 [qiita-logo]: https://img.shields.io/badge/Qiita-55c500.svg?&style=flat&logo=qiita&logoColor=white
