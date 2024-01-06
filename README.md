@@ -48,7 +48,7 @@ Look at my [work experience](./about/work_experience.md).
 | [![sizu-logo]][sizu-href] | - | ひとりごと | 
 | [![optim-logo]][optim-href] | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Spring Boot, Rails, Jetpack Compose(Android), etc. | ※ previous job ※ |
 | | | |
-| [![zenn-p-logo]][zenn-p-href] | - | Zenn Publication in the future. |
+| [![zenn-p-logo]][zenn-p-href] | Nuxt, Cloudflare, etc. | Zenn Publication in the future. |
 
 Look at more this([/about/articles](./about/articles.md)).
 
