@@ -92,10 +92,10 @@ Look at more this([/about/articles](./about/articles.md)).
 [qiita-logo]: https://img.shields.io/badge/Qiita-55c500.svg?&style=flat&logo=qiita&logoColor=white
 [qiita-href]: https://qiita.com/GANGAN
 
-[hatena-logo]: https://img.shields.io/badge/Personal_Tech_Blog-f19db5.svg?&style=flat
+[hatena-logo]: https://img.shields.io/badge/Personal_Tech_Blog-231-f19db5.svg?&style=flat
 [hatena-href]: https://gangannikki.hatenadiary.jp/
 
-[optim-logo]: https://img.shields.io/badge/OPTiM_Tech_Blog-0020F4.svg?&style=flat
+[optim-logo]: https://img.shields.io/badge/OPTiM_Tech_Blog-10-0020F4.svg?&style=flat
 [optim-href]: https://tech-blog.optim.co.jp/search?q=%E5%B2%A9%E4%B8%B8
 
 [sd-logo]: https://img.shields.io/badge/slideshare-008ED2.svg?&style=flat&logo=slideshare&logoColor=white
