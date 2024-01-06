@@ -41,15 +41,16 @@ Look at my [work experience](./about/work_experience.md).
 
 ### ✍ Authored article 
 
-| 📝 Platform | 💡 Topics | 🌎 Lang (default: `In Japanese`) | 📗 Note |
+| 📝 Personal | 💡 Topics | 🌎 Lang (default: `In Japanese`) | 📗 Note |
 | :----: | :- | :-: | :- |
 | [![zenn-articles-logo]][zenn-href] [![zenn-books-logo]][zenn-books-href] | Nuxt, Vue@v3, Pinia, unjs, Panda CSS, etc. | | Please give me thumbs up 💚 → [![zenn-likes-logo]][zenn-href] |
 | Medium or dev.to or other better platform | - | In English | Writing will begin during 2024. |
 | [![hatena-logo]][hatena-href] | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | | Written on **hatenablog**. | 
 | [![sizu-logo]][sizu-href] | - | | ひとりごと | 
-| [![optim-logo]][optim-href] | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Spring Boot, Rails, Jetpack Compose(Android), etc. | | ※ previous job ※ |
-| | | | |
+| | | | | 
+| 📝 **Organization** | 💡 **Topics** | 🌎 **Lang (default: `In Japanese`)** | 📗 **Note** |
 | [![zenn-p-logo]][zenn-p-href] | - | | Zenn Publication in the future. |
+| [![optim-logo]][optim-href] | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Spring Boot, Rails, Jetpack Compose(Android), etc. | | ※ previous job ※ |
 
 Look at more this([/about/articles](./about/articles.md)).
 
@@ -59,12 +60,12 @@ Look at more this([/about/articles](./about/articles.md)).
   <img
     alt="Top Langs"
     style="display: grid; grid-template-rows: subgrid; grid-row: span 4; height: 12rem"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinGangan&layout=compact&count_private=true&show_icons=true&theme=vue-dark&hide=jupyter%20notebook,MDX&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinGangan&include_orgs=true&layout=compact&count_private=true&show_icons=true&theme=vue-dark&hide=jupyter%20notebook,MDX&langs_count=6"
   />
   <img
     alt="github stats"
     style="display: grid; grid-template-rows: subgrid; grid-row: span 4;"
-    src="https://github-readme-stats.vercel.app/api?username=shinGangan&count_private=true&show_icons=true&show_icons=true&theme=vue-dark"
+    src="https://github-readme-stats.vercel.app/api?username=shinGangan&include_orgs=true&count_private=true&show_icons=true&show_icons=true&theme=vue-dark"
   />  
 </div>
 
