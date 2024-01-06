@@ -43,7 +43,7 @@ Look at my [work experience](./about/work_experience.md).
 
 | 📝 Platform | 💡 Topics | 📗 Note |
 | :----: | :- | :- |
-| [![zenn-articles-logo]][zenn-href] [![zenn-books-logo]][zenn-href] | Nuxt, Vue@v3, Pinia, unjs, Panda CSS, etc. | Please give me thumbs up 💚 -> [![zenn-likes-logo]][zenn-href] |
+| [![zenn-articles-logo]][zenn-href] [![zenn-books-logo]][zenn-books-href] | Nuxt, Vue@v3, Pinia, unjs, Panda CSS, etc. | Please give me thumbs up 💚 → [![zenn-likes-logo]][zenn-href] |
 | [![hatena-logo]][hatena-href] | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | Written on **hatenablog**. | 
 | [![sizu-logo]][sizu-href] | - | ひとりごと | 
 | [![optim-logo]][optim-href] | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Spring Boot, Rails, Jetpack Compose(Android), etc. | ※ previous job ※ |
@@ -87,7 +87,9 @@ Look at more this([/about/articles](./about/articles.md)).
 -->
 [zenn-logo]: https://img.shields.io/badge/Zenn-3ea8ff.svg?&style=flat&logo=Zenn&logoColor=white
 [zenn-articles-logo]: https://badgen.org/img/zenn/gangannikki/articles?style=plastic
+[zenn-href]: https://zenn.dev/gangannikki
 [zenn-books-logo]: https://badgen.org/img/zenn/gangannikki/books?style=plastic
+[zenn-books-href]: https://zenn.dev/gangannikki?tab=books
 [zenn-likes-logo]: https://badgen.org/img/zenn/gangannikki/likes?style=plastic
 [zenn-href]: https://zenn.dev/gangannikki
 [zenn-p-logo]: https://img.shields.io/badge/Publication-0-3ea8ff.svg?&style=flat&logo=Zenn
