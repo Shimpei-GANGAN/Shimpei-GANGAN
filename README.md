@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### 🌤️ Frequently using technology stacks
 
-[![nuxt-logo]][nuxt-href] / [![unjs-logo]][unjs-href] / [![panda-logo]][panda-href] / [![kuma-logo]][kuma-href] / ![hono-logo] / ![cf-logo] / ![aws-logo] / ![az-logo] / ![kt-logo] / and more.
+[![nuxt-logo]][nuxt-href] / [![unjs-logo]][unjs-href] / [![panda-logo]][panda-href] / [![kuma-logo]][kuma-href] / ![hono-logo] / ![cf-logo] / ![aws-logo] / ![az-logo] / ![kt-logo] / ![spring-boot-logo] /and more.
 
 <br />
 
@@ -137,3 +137,4 @@ Look at more this([/about/articles](./about/articles.md)).
 [az-logo]: https://img.shields.io/badge/Azure-0078D4.svg?style=plastic&logo=microsoftazure
 [aws-logo]: https://img.shields.io/badge/AWS-FF9900.svg?style=plastic&logo=amazonaws
 [kt-logo]: https://img.shields.io/badge/Kotlin-7F52FF.svg?style=plastic&logo=kotlin&color=6A6A6A
+[spring-boot-logo]: https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=plastic&logo=springboot&color=6A6A6A
