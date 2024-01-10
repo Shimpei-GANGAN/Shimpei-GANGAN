@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 <br />
 
-In 2024, I want to contribute to the technology communities that I use most often on a daily basis, such as Nuxt, unjs, Panda CSS, Kuma UI, Hono, Azure, etc.
+In 2024, I want to contribute to the technology communities that I use most often on a daily basis, such as **Nuxt**, **unjs**, **Panda CSS**, **Kuma UI**, **Hono**, **Azure**, etc.
 
-I would like to be a staff member or a speaker (lightning talk) at Vue Fes Japan 2024 if I have the opportunity and the chance (I would like to contribute in some way).
+I would like to be a staff member or a speaker (lightning talk) at **Vue Fes Japan 2024** if I have the opportunity and the chance (I would like to contribute in some way).
 
 ### 🔭 Work
 
