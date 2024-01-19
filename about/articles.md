@@ -35,3 +35,8 @@ Vue.js@v2.x, Vuetify@v2.x, Ruby on Rails, Java@v11.x, Spring Boot@v2.x,
 - `Nov. 15, 2021` : [入社半年の新卒が、Ruby on RailsでOPTiM AI Camera Web APIの混雑状況取得を試してみた](https://tech-blog.optim.co.jp/entry/2021/11/15/100000)
 
 ## Draft: Qiita Advent Calendar
+
+## [KADAI INFO](https://kadaiinfo.com/)
+
+- 鹿大生による鹿大生のための情報メディア
+- show list in https://kadai-info.com/author/gangan/
