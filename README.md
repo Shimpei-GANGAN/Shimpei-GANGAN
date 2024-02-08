@@ -39,11 +39,11 @@ I would like to be a staff member or a speaker (lightning talk) at **Vue Fes Jap
 
 Look at my [work experience](./about/work_experience.md).
  
-### 🌱 Open source projects
+### 🌱 Open source projects / Community
 
 | 🚀 Projects | 🌱 Abstract | 📗 Note |
 | :- | :- | :- |
-| 🦒 Draft | Draft | we'll do our best. | 
+| [**Vue・Nuxt 情報が集まる広場 / Plaza for Vue・Nuxt.**](https://zenn.dev/p/comm_vue_nuxt) | Community for writing articles to Vue.js , Nuxt and related libraries | Publication Owner |
 
 ### ✍ Authored article 
 
