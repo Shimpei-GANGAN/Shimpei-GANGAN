@@ -1,18 +1,3 @@
-<!--
-**Shimpei-GANGAN/Shimpei-GANGAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1> Hi there! Nice to see you. 👋 </h1>
 
 <p>Thanks for coming my page!</p>
@@ -23,7 +8,7 @@ Here are some ideas to get you started:
 
 ### 🔍 Where to find me
 
-[![twitter-logo]][twitter-href] / [![zenn-logo]][zenn-href] / [![wt-logo]][wt-href] / [![lp-logo]][lp-href] / [![sd-logo]][sd-href]
+[![twitter-logo]][twitter-href] / [![zenn-logo]][zenn-href] / [![wt-logo]][wt-href] / [![lp-logo]][lp-href] / [![sd-logo]][sd-href] / [![sp-logo]][sp-href]
 
 ### 🌤️ Frequently using technology stacks
 
@@ -117,7 +102,7 @@ Look at more this([/about/articles](./about/articles.md)).
 [sd-href]: https://www.slideshare.net/ShimpeiIwamaru/presentations
 
 [sp-logo]: https://img.shields.io/badge/Speaker_Deck-009287.svg?&style=flat&logo=speakerdeck&logoColor=white
-[sp-href]: https://www.slideshare.net/ShimpeiIwamaru/presentations
+[sp-href]: https://speakerdeck.com/shingangan
 
 <!--
   Badge for Tech
