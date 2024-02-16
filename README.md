@@ -6,6 +6,8 @@
 
 🌸 Web Engineer, mainly frontend developer.
 
+北九州高専🏭→鹿児島🌋→TYO🗼→TKS🌀
+
 ### 🔍 Where to find me
 
 [![twitter-logo]][twitter-href] / [![zenn-logo]][zenn-href] / [![wt-logo]][wt-href] / [![lp-logo]][lp-href] / [![sd-logo]][sd-href] / [![sp-logo]][sp-href]
