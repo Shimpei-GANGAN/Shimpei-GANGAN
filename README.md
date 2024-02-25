@@ -25,6 +25,10 @@ I would like to be a staff member or a speaker (lightning talk) at **Vue Fes Jap
 ### 🔭 Work
 
 Look at my [work experience](./about/work_experience.md).
+
+### ⚡️ Contribute
+
+[![nuxt-logo]][nuxt-contributor] / [![unjs-logo]][unjs-contributor] / [![panda-logo]][pandacss-contributor] / [![hono-logo]][hono-contributor]
  
 ### 🌱 Open source projects / Community
 
@@ -105,6 +109,14 @@ Look at more this([/about/articles](./about/articles.md)).
 
 [sp-logo]: https://img.shields.io/badge/Speaker_Deck-009287.svg?&style=flat&logo=speakerdeck&logoColor=white
 [sp-href]: https://speakerdeck.com/shingangan
+
+<!--
+  Badge for Contributor
+-->
+[nuxt-contributor]: https://github.com/shinGangan?org=nuxt
+[unjs-contributor]: https://github.com/shinGangan?org=unjs
+[pandacss-contributor]: https://github.com/shinGangan?org=chakra-ui
+[hono-contributor]: https://github.com/shinGangan?org=honojs
 
 <!--
   Badge for Tech
