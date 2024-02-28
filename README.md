@@ -115,7 +115,7 @@ Look at more this([/about/articles](./about/articles.md)).
 <!--
   Badge for Contributor
 -->
-[nuxt-contributor]: https://github.com/shinGangan?org=nuxt
+[nuxt-contributor]: https://nuxters.nuxt.com/shinGangan
 [unjs-contributor]: https://github.com/shinGangan?org=unjs
 [pandacss-contributor]: https://github.com/shinGangan?org=chakra-ui
 [hono-contributor]: https://github.com/shinGangan?org=honojs
