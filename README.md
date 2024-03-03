@@ -18,11 +18,11 @@ Look at my [work experience](./about/work_experience.md).
 
 ### ⚡️ Contribute
 
-[![nuxt-logo]][nuxt-contributor] / [![unjs-logo]][unjs-contributor] / [![panda-logo]][pandacss-contributor] / [![hono-logo]][hono-contributor]
+[![nuxt-logo]][nuxt-contributor] [![unjs-logo]][unjs-contributor] families / [![panda-logo]][pandacss-contributor] / [![hono-logo]][hono-contributor]　 / and more.
 
 ### 🌤️ Frequently using technology stacks
 
-[![nuxt-logo]][nuxt-href] / [![unjs-logo]][unjs-href] / [![panda-logo]][panda-href] / [![kuma-logo]][kuma-href] / ![hono-logo] / ![cf-logo] / ![aws-logo] / ![az-logo] / ![kt-logo] / ![spring-boot-logo] /and more.
+[![nuxt-logo]][nuxt-href] / [![unjs-logo]][unjs-href] / [![panda-logo]][panda-href] / [![kuma-logo]][kuma-href] / ![hono-logo] / ![cf-logo] / ![aws-logo] / ![az-logo] / ![kt-logo] / ![spring-boot-logo] / and more.
 
 <br />
 
