@@ -62,7 +62,7 @@ Look at more this([/about/articles](./about/articles.md)).
   <img
     alt="nuxters image"
     style="display: grid; grid-template-rows: subgrid; grid-row: span 4; max-height: 15rem"
-    src="https://nuxters.nuxt.com/shinGangan/__og_image__/og.png"
+    src="https://nuxters.nuxt.com/card/shinGangan/og.png"
   />
 </div>
 
