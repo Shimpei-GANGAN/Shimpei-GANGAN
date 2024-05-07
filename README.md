@@ -4,7 +4,7 @@
 
 ## `$ whoami`
 
-🌸 Web Engineer, mainly frontend developer.
+🌸 Web Engineer, mainly frontend developer.　[![nuxt-logo]][nuxt-contributor] and [![unjs-logo]][unjs-contributor] Contributor.
 
 北九州高専🏭 → Kagoshima🌋 → Tokyo🗼 → Tokushima🌀
 
