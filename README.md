@@ -59,11 +59,13 @@ Look at more this([/about/articles](./about/articles.md)).
     style="display: grid; grid-template-rows: subgrid; grid-row: span 4;"
     src="https://github-readme-stats.vercel.app/api?username=shinGangan&include_orgs=true&count_private=true&show_icons=true&show_icons=true&theme=vue-dark"
   />
-  <img
-    alt="nuxters image"
-    style="display: grid; grid-template-rows: subgrid; grid-row: span 4; max-height: 15rem"
-    src="https://nuxters.nuxt.com/card/shinGangan/og.png"
-  />
+  <a href="https://nuxters.nuxt.com/shinGangan">
+   <img
+     alt="nuxters image"
+     style="display: grid; grid-template-rows: subgrid; grid-row: span 4; max-height: 10rem"
+     src="https://nuxters.nuxt.com/card/shinGangan/og.png"
+   />
+  </a>
 </div>
 
 <!--
