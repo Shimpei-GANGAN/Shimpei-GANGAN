@@ -4,9 +4,11 @@
 
 ## `$ whoami`
 
-🌸 Web Engineer, mainly frontend developer.　[![nuxt-logo]][nuxt-contributor] and [![unjs-logo]][unjs-contributor] Contributor.
+🌸 Freelance Web Engineer, mainly front-end developer. I also works as a cloud architect and product manager.
 
-北九州高専🏭 → Kagoshima🌋 → Tokyo🗼 → Tokushima🌀
+💚 [![nuxt-logo]][nuxt-contributor] and [![unjs-logo]][unjs-contributor] familiy contributor. See more [nuxters](https://nuxters.nuxt.com/shinGangan).
+
+🌤️ 北九州高専🏭 → Kagoshima🌋 → Tokyo🗼 → Tokushima🌀
 
 ### 🔍 Where to find me
 
@@ -16,14 +18,6 @@
 
 Look at my [work experience](./about/work_experience.md).
 
-### ⚡️ Contribute
-
-[![nuxt-logo]][nuxt-contributor] [![unjs-logo]][unjs-contributor] families / [![panda-logo]][pandacss-contributor] / [![hono-logo]][hono-contributor]　 / and more.
-
-### 🌤️ Frequently using technology stacks
-
-[![nuxt-logo]][nuxt-href] / [![unjs-logo]][unjs-href] / [![panda-logo]][panda-href] / [![kuma-logo]][kuma-href] / ![hono-logo] / ![cf-logo] / ![aws-logo] / ![az-logo] / ![kt-logo] / ![spring-boot-logo] / and more.
- 
 ### 🌱 Open source projects / Community
 
 | 🚀 Projects | 🌱 Abstract | 📗 Note |
@@ -35,7 +29,7 @@ Look at my [work experience](./about/work_experience.md).
 
 | 📝 Personal | 💡 Topics | 🌎 Lang (default: `In Japanese`) | 📗 Note |
 | :----: | :- | :-: | :- |
-| [![zenn-articles-logo]][zenn-href] [![zenn-books-logo]][zenn-books-href] | Nuxt, Vue@v3, Pinia, unjs, Panda CSS, etc. | | Please give me thumbs up 💚 → [![zenn-likes-logo]][zenn-href] |
+| [![zenn-articles-logo]][zenn-href] [![zenn-books-logo]][zenn-books-href] | Nuxt, Vue@v3, Pinia, UnJS, Panda CSS, etc. | | Please give me thumbs up 💚 → [![zenn-likes-logo]][zenn-href] |
 | Medium or dev.to or other better platform | - | In English | Writing will begin during 2024. |
 | [![hatena-logo]][hatena-href] | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | | Written on **hatenablog**. | 
 | [![sizu-logo]][sizu-href] | - | | ひとりごと | 
@@ -46,7 +40,7 @@ Look at my [work experience](./about/work_experience.md).
 
 Look at more this([/about/articles](./about/articles.md)).
 
-## Stats
+## ⚡️ Stats
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16rem">
   <img
