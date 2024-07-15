@@ -4,7 +4,7 @@
 
 ## `$ whoami`
 
-🌸 Freelance Web Engineer, mainly front-end developer. I also works as a cloud architect and product manager.
+🌸 Web Engineer, mainly front-end developer. I also works as a cloud architect and product manager.
 
 💚 [![nuxt-logo]][nuxt-contributor] and [![unjs-logo]][unjs-contributor] familiy contributor. See more [nuxters](https://nuxters.nuxt.com/shinGangan).
 
