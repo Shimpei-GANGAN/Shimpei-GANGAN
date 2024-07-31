@@ -34,7 +34,7 @@ Look at my [work experience](./about/work_experience.md).
 | [![sizu-logo]][sizu-href] | - | | ひとりごと | 
 | | | | | 
 | 📝 **Organization** | 💡 **Topics** | 🌎 **Lang (default: `In Japanese`)** | 📗 **Note** |
-| [![zenn-p-logo]][zenn-p-href] | - | | Zenn Publication in the future. |
+| [![zenn-p-logo]][zenn-p-href] | Nuxt, Vue.js | | Publication of FeaSion Corporation (Owner) |
 | [![optim-logo]][optim-href] | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Spring Boot, Rails, Jetpack Compose(Android), etc. | | ※ previous job ※ |
 
 Look at more this([/about/articles](./about/articles.md)).
@@ -87,8 +87,8 @@ Look at more this([/about/articles](./about/articles.md)).
 [zenn-books-logo]: https://badgen.org/img/zenn/gangannikki/books
 [zenn-books-href]: https://zenn.dev/gangannikki?tab=books
 
-[zenn-p-logo]: https://img.shields.io/badge/xyz_Publication-0-3ea8ff.svg?&style=flat&logo=Zenn
-[zenn-p-href]: https://zenn.dev/gangannikki
+[zenn-p-logo]: https://img.shields.io/badge/FeaSion_Tech_Blog-0-3ea8ff.svg?&style=flat&logo=Zenn
+[zenn-p-href]: https://zenn.dev/p/feasion
 
 [qiita-logo]: https://img.shields.io/badge/Qiita-55c500.svg?&style=flat&logo=qiita&logoColor=white
 [qiita-href]: https://qiita.com/GANGAN
