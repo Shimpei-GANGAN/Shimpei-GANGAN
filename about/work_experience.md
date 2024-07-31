@@ -6,7 +6,11 @@
 
 ## Draft: `2021 ~ 2024`
 
-### Current Job : `xyz`
+### Current Job : `FeaSion Corporation` : from `2024.05`
+
+- 新規ビジネス立ち上げおよびプロダクトオーナー
+- ITコンサル・営業
+- 開発案件・技術顧問
 
 ### ex- OPTiM Corporation : from `2021.03` to `2023.05`
 
@@ -18,9 +22,11 @@ Engaged in AI web services. Responsible for development and operation, focusing 
 
 #### 1. AI Webアプリケーションの開発・運用
 
-Draft
+新卒1年目からAI Webアプリケーションの開発・運用に従事していました。Webフロントエンドの開発をメインとしつつ、サーバーサイド、インフラ、運用なども担当していました。
 
 #### 2. Edge AI アプリケーションの開発・運用
+
+AI Webアプリケーションの開発と合わせてEdge向けAI アプリケーションの開発・運用にも従事していました。こちらは主にフロントエンド、運用改善を中心に担当していました。
 
 #### 3. Author / Speaker
 
@@ -33,7 +39,7 @@ Draft
 
 ---
 
-## Draft: `2017 ~ 2020`
+## `2017 ~ 2020`
 
 ### ex- ACCESS CO., LTD. : Internship, from `2019.11` to `2020.05`
 
@@ -86,9 +92,9 @@ Draft
 
 ---
 
-## Draft: `2014 ~ 2017`
+## `2014 ~ 2017`
 
-### ex- xyz Corporation : Internship, from `2015.10` to `2016.03`
+### ex- MARINTEC Club Corporation : Internship, from `2015.10` to `2016.03`
 
 | | |
 | :-: | :- |
@@ -96,7 +102,7 @@ Draft
 | **Details** | 船舶で利用する船舶ライトの回路を設計・実装。既存回路と比較し、コスト削減・耐久性向上・LED寿命向上を達成。 |
 | **Topics** | LED, 半田付け, tape light, 電気回路, 電子工作 |
 
-### ex- xyz Corporation : 1 week for internship in `2015.08`
+### ex- ATEX Co.Ltd. : 1 week for internship in `2015.08`
 
 | | |
 | :-: | :- |
