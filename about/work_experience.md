@@ -1,4 +1,4 @@
-# Draft: Work Experience
+# Work Experience
 
 **Education** => Go to [Education](./education.md) page.
 
