@@ -30,7 +30,6 @@ Look at my [work experience](./about/work_experience.md).
 | 📝 Personal | 💡 Topics | 🌎 Lang (default: `In Japanese`) | 📗 Note |
 | :----: | :- | :-: | :- |
 | [![zenn-articles-logo]][zenn-href] [![zenn-books-logo]][zenn-books-href] | Nuxt, Vue@v3, Pinia, UnJS, Panda CSS, etc. | | Please give me thumbs up 💚 → [![zenn-likes-logo]][zenn-href] |
-| Medium or dev.to or other better platform | - | In English | Writing will begin during 2024. |
 | [![hatena-logo]][hatena-href] | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | | Written on **hatenablog**. | 
 | [![sizu-logo]][sizu-href] | - | | ひとりごと | 
 | | | | | 
