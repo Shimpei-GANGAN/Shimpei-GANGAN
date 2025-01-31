@@ -87,7 +87,7 @@ Look at more this([/about/articles](./about/articles.md)).
 [zenn-books-logo]: https://badgen.org/img/zenn/gangannikki/books
 [zenn-books-href]: https://zenn.dev/gangannikki?tab=books
 
-[zenn-p-logo]: https://img.shields.io/badge/FeaSion_Tech_Blog-3-3ea8ff.svg?&style=flat&logo=Zenn
+[zenn-p-logo]: https://img.shields.io/badge/FeaSion_Tech_Blog-5-3ea8ff.svg?&style=flat&logo=Zenn
 [zenn-p-href]: https://zenn.dev/p/feasion
 
 [qiita-logo]: https://img.shields.io/badge/Qiita-55c500.svg?&style=flat&logo=qiita&logoColor=white
